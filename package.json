@@ -1,0 +1,25 @@
+{
+  "name": "annict-cli-token-publisher",
+  "version": "0.0.0",
+  "description": "nukosuke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nukosuke/annict-cli-token-publisher.git"
+  },
+  "keywords": [
+    "cli",
+    "anime",
+    "service",
+    "tool"
+  ],
+  "author": "nukosuke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nukosuke/annict-cli-token-publisher/issues"
+  },
+  "homepage": "https://github.com/nukosuke/annict-cli-token-publisher#readme"
+}
