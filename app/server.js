@@ -23,6 +23,7 @@ app.post('/token', (req, res) => {
         'urn:ietf:wg:oauth:2.0:oob',
         code
     )
+    .then(response => response.json())
     .then(body => {
         return res.json({ access_token: body.access_token });
     })
