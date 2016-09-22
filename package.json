@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/nukosuke/annict-token-publisher#readme",
   "dependencies": {
-    "annict": "0.0.4",
+    "annict": "0.0.5",
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
   },
   "devDependencies": {
-    "typings": "^1.3.3"
+    "typings": "^1.4.0"
   }
 }
