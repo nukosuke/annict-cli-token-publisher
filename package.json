@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nukosuke/annict-token-publisher#readme",
   "dependencies": {
-    "annict": "0.0.6",
+    "annict": "0.0.7",
     "body-parser": "^1.15.2",
     "express": "^4.14.0"
   },
