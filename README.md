@@ -1,4 +1,6 @@
-# annict-token-publisher
+# DEPRECATED: annict-token-publisher
+Use personal token!
+
 Annict access_token publish server for client app
 
 ```
